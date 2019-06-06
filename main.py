@@ -129,7 +129,7 @@ if(type == 'video'):
     cap.release()
     cv2.destroyAllWindows()
 else:
-    image = cv2.imread('./test/6annot_val2690800.jpg')
+    image = cv2.imread(PATH_TO_IMAGE)
     image = cv2.resize(image, (1080,720))
     image_expanded = np.expand_dims(image, axis=0)
 
