@@ -1,6 +1,6 @@
 # Badminton-Player-Detection
 
-Player in a badminton match are classfied in two categories 
+Player in a badminton match is classfied in two categories 
 1) Player Top (PB)
 2) Player Bottom (PT)
 
