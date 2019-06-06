@@ -10,7 +10,7 @@ This model also calculates the coordinates of player position on the court and s
 [Link to download the model](https://drive.google.com/open?id=1ZAm7rGdTvJoxTMzVRAKvGfNrzW3Y28yH)
 
 # Usage:
-
+This code requires TensorFlow API.
 Change the path to image or video in the file
 
 For images:
