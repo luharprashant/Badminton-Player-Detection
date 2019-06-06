@@ -7,6 +7,7 @@ Player in a badminton match are classfied in two categories
 This Deep Learning Model detects and classifies the player from videos and images.
 This model also calculates the coordinates of player position on the court and saves them.
 
+[LINK TO MODEL](https://drive.google.com/open?id=1ZAm7rGdTvJoxTMzVRAKvGfNrzW3Y28yH)
 
 # Usage:
 
