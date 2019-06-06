@@ -4,7 +4,9 @@ Player in a badminton match are classfied in two categories
 1) Player Top (PB)
 2) Player Bottom (PT)
 
-This Deep Learning Model detects and classifies the player from any Badminton Broadcast Videos
+This Deep Learning Model detects and classifies the player from videos and images.
+This model also calculates the coordinates of player position on the court and saves them.
+
 
 # Usage:
 
